@@ -1,0 +1,5 @@
+## Instructions
+
+1. Place the list_materials.bat and list_materials.py in a folder of .blend files
+2. Click the bat file
+3. A file called "materials.txt" will be created.
